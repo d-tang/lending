@@ -1,2 +1,4 @@
 one user can have more than one account/loan?
 pct_tl_nvr_dlq (percent of trades never delinquent) - what is a trade?
+initial_list_status - Not sure what 'w' and 'f' mean. Drop?
+loan_amnt vs. funded_amnt vs. funded_amnt_inv - can you only invest in ones where funded_amnt_inv is not equal to funded_amnt?
