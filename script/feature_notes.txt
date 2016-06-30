@@ -1,0 +1,2 @@
+one user can have more than one account/loan?
+pct_tl_nvr_dlq (percent of trades never delinquent) - what is a trade?
